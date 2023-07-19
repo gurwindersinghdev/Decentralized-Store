@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Camera",
+      "category": "electronics",
+      "image": "https://gateway.pinata.cloud/ipfs/QmZ4ygqV6Qfnm7g6TcGdf5Y6wm8wuoEWvrNJuNY6To7Wqn",
+      "price": "1",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Drone",
+      "category": "electronics",
+      "image": "https://gateway.pinata.cloud/ipfs/QmXTib9z7gyxAewKmdAqmvtyEHzMHQZv6SzJtj8qMAJHqG",
+      "price": "2",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "Headset",
+      "category": "electronics",
+      "image": "https://gateway.pinata.cloud/ipfs/QmQ1romC3ywJgxgZcCH89gMizXUjePqjDgeHj5fsBERfKW",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Shoes",
+      "category": "clothing",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeoULnQvUBEUagTxo7v1jMdfuRjPzuHbdgtcGvggQsawZ",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Sunglasses",
+      "category": "clothing",
+      "image": "https://gateway.pinata.cloud/ipfs/QmWTGyjf6zr8u534X44sxQkkcKNCyxrZM1hGGmP2vMf6TN",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Watch",
+      "category": "clothing",
+      "image": "https://gateway.pinata.cloud/ipfs/QmcdYHrXQd57QUCy3z9o1TF1mA5C38eeE3pbcDXaLEVuRY",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "Puzzle Cube",
+      "category": "toys",
+      "image": "https://gateway.pinata.cloud/ipfs/Qma9nED8N6AitqUFaeK6dTqyfWyPpbX7BWwwPir9LSEeZm",
+      "price": "0.05",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Train Set",
+      "category": "toys",
+      "image": "https://gateway.pinata.cloud/ipfs/QmRZQJi55ShqwtUoxdLtBJH9R1BozwKcYcdP97yDapUHDY",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "Robot Set",
+      "category": "toys",
+      "image": "https://gateway.pinata.cloud/ipfs/QmRx8jbrdppuje2biqKTNHt8iaMbes8EUUtua72LZRV3v2",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}
